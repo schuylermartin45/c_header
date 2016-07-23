@@ -1,12 +1,12 @@
 /*
-** File:	TODO_header.h
+** File:	TODO.h
 **
 ** Author: Schuyler Martin <sam8050@rit.edu>
 **
 ** Description: TODO
 */
-#ifndef _TODO_HEADER_H_
-#define _TODO_HEADER_H_
+#ifndef _TODO_H_
+#define _TODO_H_
 
 /********** Macros     **********/
 
@@ -19,7 +19,7 @@
 /*
 ** TODO description
 **
-** @param
+** @param name expl
 ** @return
 */
 void _intern_func();
@@ -27,7 +27,7 @@ void _intern_func();
 /*
 ** TODO description
 **
-** @param
+** @param name expl
 ** @return
 */
 void extern_func();

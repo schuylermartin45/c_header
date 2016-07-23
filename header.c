@@ -8,9 +8,9 @@
 #include "TODO_header.h"
 
 /*
-** TODO description
+** TODO expl
 **
-** @param
+** @param name expl
 ** @return
 */
 void _intern_func()
@@ -18,9 +18,9 @@ void _intern_func()
 }
 
 /*
-** TODO description
+** TODO expl
 **
-** @param
+** @param name expl
 ** @return
 */
 void extern_func()
