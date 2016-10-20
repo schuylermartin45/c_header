@@ -1,7 +1,7 @@
 /*
-** File:   TODO.c
+** File:    TODO.c
 **
-** Author: Schuyler Martin <sam8050@rit.edu>
+** Author:  Schuyler Martin <sam8050@rit.edu>
 **
 ** Description: TODO
 */
