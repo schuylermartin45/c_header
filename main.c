@@ -1,5 +1,5 @@
 /*
-** File:	main.c
+** File:   main.c
 **
 ** Author: Schuyler Martin <sam8050@rit.edu>
 **
